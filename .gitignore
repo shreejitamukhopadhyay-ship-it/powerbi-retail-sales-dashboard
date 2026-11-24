@@ -1,0 +1,12 @@
+# Power BI and source data are not redistributed in this repository.
+*.pbix
+*.pbit
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.zip
+/data/
+/raw/
+/processed/
